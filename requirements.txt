@@ -5,4 +5,4 @@ PyGithub==2.4.0
 python-dotenv==1.0.1
 sentence_transformers==3.1.0
 streamlit==1.38.0
-faiss-cpu==1.7.4
+faiss-cpu==1.7.4 --only-binary=:all:
